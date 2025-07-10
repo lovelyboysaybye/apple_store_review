@@ -1,0 +1,136 @@
+2025-07-10 18:53:30,641 - INFO - Loaded 1000 reviews from app_1264782561_review.json
+2025-07-10 18:53:30,642 - INFO - Rating distribution by stars: {'NEGATIVE': 41, 'POSITIVE': 49, 'NEUTRAL': 10}
+2025-07-10 18:54:01,477 - INFO - Sentiment distribution by model: Counter({'NEGATIVE': 48, 'POSITIVE': 38, 'NEUTRAL': 14})
+2025-07-10 18:54:01,534 - INFO - Found 48 negative reviews.
+2025-07-10 18:54:07,340 - INFO - Extracted 571 keywords using keybert (top_n=15).
+2025-07-10 18:54:08,284 - INFO - Extracted 585 keywords using yake (top_n=15).
+2025-07-10 18:54:08,285 - INFO - Top keywords (KeyBERT):
+2025-07-10 18:54:08,285 - INFO -   app: 32
+2025-07-10 18:54:08,285 - INFO -   update: 12
+2025-07-10 18:54:08,285 - INFO -   new: 9
+2025-07-10 18:54:08,285 - INFO -   daily: 8
+2025-07-10 18:54:08,285 - INFO -   used: 7
+2025-07-10 18:54:08,285 - INFO -   astrology: 6
+2025-07-10 18:54:08,285 - INFO -   subscription: 6
+2025-07-10 18:54:08,285 - INFO -   free: 6
+2025-07-10 18:54:08,286 - INFO -   just: 5
+2025-07-10 18:54:08,286 - INFO -   updates: 5
+2025-07-10 18:54:08,286 - INFO -   astrological: 5
+2025-07-10 18:54:08,286 - INFO -   pay: 5
+2025-07-10 18:54:08,286 - INFO -   features: 5
+2025-07-10 18:54:08,286 - INFO -   horoscopes: 4
+2025-07-10 18:54:08,286 - INFO -   day: 4
+2025-07-10 18:54:08,286 - INFO -   insights: 4
+2025-07-10 18:54:08,286 - INFO -   star: 4
+2025-07-10 18:54:08,286 - INFO -   accurate: 4
+2025-07-10 18:54:08,286 - INFO -   gone: 4
+2025-07-10 18:54:08,286 - INFO -   anymore: 4
+2025-07-10 18:54:08,286 - INFO -   access: 4
+2025-07-10 18:54:08,286 - INFO -   don: 4
+2025-07-10 18:54:08,286 - INFO -   costar: 4
+2025-07-10 18:54:08,287 - INFO -   useless: 4
+2025-07-10 18:54:08,287 - INFO -   paywall: 4
+2025-07-10 18:54:08,287 - INFO -   negative: 4
+2025-07-10 18:54:08,287 - INFO -   service: 4
+2025-07-10 18:54:08,287 - INFO -   paid: 3
+2025-07-10 18:54:08,287 - INFO -   messages: 3
+2025-07-10 18:54:08,287 - INFO -   worth: 3
+2025-07-10 18:54:08,287 - INFO -   apps: 3
+2025-07-10 18:54:08,287 - INFO -   recommend: 3
+2025-07-10 18:54:08,287 - INFO -   feature: 3
+2025-07-10 18:54:08,287 - INFO -   users: 3
+2025-07-10 18:54:08,287 - INFO -   reviews: 3
+2025-07-10 18:54:08,287 - INFO -   info: 3
+2025-07-10 18:54:08,287 - INFO -   week: 3
+2025-07-10 18:54:08,287 - INFO -   glance: 3
+2025-07-10 18:54:08,287 - INFO -   widget: 3
+2025-07-10 18:54:08,287 - INFO -   ai: 3
+2025-07-10 18:54:08,288 - INFO -   error: 2
+2025-07-10 18:54:08,288 - INFO -   crashing: 2
+2025-07-10 18:54:08,288 - INFO -   logged: 2
+2025-07-10 18:54:08,288 - INFO -   won: 2
+2025-07-10 18:54:08,288 - INFO -   money: 2
+2025-07-10 18:54:08,288 - INFO -   took: 2
+2025-07-10 18:54:08,288 - INFO -   supposed: 2
+2025-07-10 18:54:08,288 - INFO -   needs: 2
+2025-07-10 18:54:08,288 - INFO -   way: 2
+2025-07-10 18:54:08,288 - INFO -   read: 2
+2025-07-10 18:54:08,288 - INFO - Top keywords (YAKE):
+2025-07-10 18:54:08,288 - INFO -   app: 18
+2025-07-10 18:54:08,288 - INFO -   n’t: 11
+2025-07-10 18:54:08,288 - INFO -   update: 8
+2025-07-10 18:54:08,288 - INFO -   App: 6
+2025-07-10 18:54:08,288 - INFO -   day: 5
+2025-07-10 18:54:08,288 - INFO -   features: 5
+2025-07-10 18:54:08,288 - INFO -   daily: 5
+2025-07-10 18:54:08,289 - INFO -   horoscopes: 4
+2025-07-10 18:54:08,289 - INFO -   ’ve: 4
+2025-07-10 18:54:08,289 - INFO -   paid: 3
+2025-07-10 18:54:08,289 - INFO -   Update: 3
+2025-07-10 18:54:08,289 - INFO -   back: 3
+2025-07-10 18:54:08,289 - INFO -   accurate: 3
+2025-07-10 18:54:08,289 - INFO -   updates: 3
+2025-07-10 18:54:08,289 - INFO -   make: 3
+2025-07-10 18:54:08,289 - INFO -   week: 3
+2025-07-10 18:54:08,289 - INFO -   glance: 3
+2025-07-10 18:54:08,289 - INFO -   negative: 3
+2025-07-10 18:54:08,289 - INFO -   error: 2
+2025-07-10 18:54:08,289 - INFO -   messages: 2
+2025-07-10 18:54:08,290 - INFO -   logged: 2
+2025-07-10 18:54:08,290 - INFO -   supposed: 2
+2025-07-10 18:54:08,290 - INFO -   read: 2
+2025-07-10 18:54:08,290 - INFO -   astrology: 2
+2025-07-10 18:54:08,290 - INFO -   loved this app: 2
+2025-07-10 18:54:08,290 - INFO -   daily updates: 2
+2025-07-10 18:54:08,290 - INFO -   anymore: 2
+2025-07-10 18:54:08,290 - INFO -   loved: 2
+2025-07-10 18:54:08,290 - INFO -   chart: 2
+2025-07-10 18:54:08,290 - INFO -   accuracy: 2
+2025-07-10 18:54:08,290 - INFO -   reading: 2
+2025-07-10 18:54:08,290 - INFO -   subscription: 2
+2025-07-10 18:54:08,290 - INFO -   parts: 2
+2025-07-10 18:54:08,290 - INFO -   info: 2
+2025-07-10 18:54:08,290 - INFO -   full: 2
+2025-07-10 18:54:08,290 - INFO -   time: 2
+2025-07-10 18:54:08,295 - INFO -   good: 2
+2025-07-10 18:54:08,296 - INFO -   challenge: 2
+2025-07-10 18:54:08,296 - INFO -   trouble: 2
+2025-07-10 18:54:08,296 - INFO -   paywall: 2
+2025-07-10 18:54:08,296 - INFO -   power: 2
+2025-07-10 18:54:08,296 - INFO -   annoying: 2
+2025-07-10 18:54:08,296 - INFO -   costar: 2
+2025-07-10 18:54:08,296 - INFO -   changed: 2
+2025-07-10 18:54:08,296 - INFO -   free: 2
+2025-07-10 18:54:08,296 - INFO -   dive deeper: 2
+2025-07-10 18:54:08,296 - INFO -   recent: 2
+2025-07-10 18:54:08,296 - INFO -   service: 2
+2025-07-10 18:54:08,296 - INFO -   Worked: 1
+2025-07-10 18:54:08,296 - INFO -   error occurred: 1
+2025-07-10 18:54:08,296 - INFO - Summarizing reviews...
+2025-07-10 18:58:09,585 - INFO - Clustering summaries...
+2025-07-10 18:58:15,096 - INFO - --- Cluster 2 (12 items) ---
+2025-07-10 18:58:15,097 - INFO -  • Reading through my and my loved one’s daily updates used to be one of the best parts of my day, which is gone thanks to the new update. this formatting is atrocious, inaccessible, and creates a sense of disconnect
+2025-07-10 18:58:15,097 - INFO -  • The app keeps crashing as of today. Doesn't let me read my day in the past. App crashes and needs content update.
+2025-07-10 18:58:15,097 - INFO -  • The most recent update on May 13th 2025 has caused the app to not work at all. Update Making App Unusable.
+2025-07-10 18:58:15,097 - INFO -  • This new update is not good :( took away features I used daily. Sad. Please fix!
+2025-07-10 18:58:15,097 - INFO -  • The app only worked once. Worked once until I paid for an upgrade. Now just constantly says ‘error occurred. Try again later’
+2025-07-10 18:58:15,097 - INFO - --- Cluster 1 (20 items) ---
+2025-07-10 18:58:15,097 - INFO -  • "I refuse to suddenly pay for something that I had free access to since 2018" "This app and what it offers is simply not worth a subscription service" "I'm extremely disappointed in you all at Co-Star"
+2025-07-10 18:58:15,097 - INFO -  • Long time user is not impressed.. Ive been a member for FIVE+ years now. ive seen alot of bad updates, but this one's the worst. They removed the ability to see your horroscope 2 days in
+2025-07-10 18:58:15,097 - INFO -  • This app is insanely negative and nasty. Abusive. This app is extremely negative, nasty and abusive.
+2025-07-10 18:58:15,097 - INFO -  • I loved this app, but now they have removed multiple features (for reasons I can only assume are to make users pay for premium). they’ve tarnished the worth of this app. very disappointed. new update??. this
+2025-07-10 18:58:15,097 - INFO -  • Good app unless you need real help. I have been trying to contact support about their app for three months about paying for a service I did not receive and they have not replied to my messages. Not even a hello.
+2025-07-10 18:58:15,097 - INFO - --- Cluster 3 (11 items) ---
+2025-07-10 18:58:15,098 - INFO -  • This app just repeats horoscopes and chops the same bits in different days. I don't think anyone is actually doing work to create the horoscope at all probably AI.
+2025-07-10 18:58:15,098 - INFO -  • My ascendent changed from aquarius to leo??? All the other websites say it’s aqua. This is annoying.
+2025-07-10 18:58:15,098 - INFO -  • Love the snarky but relevant astrological insights. Strongly dislike the new format. Not intuitive like the old format and cannot project out 2 days anymore.
+2025-07-10 18:58:15,098 - INFO -  • Not good. Not good. No good. And no bad. No bad. Not bad. But bad.
+2025-07-10 18:58:15,098 - INFO -  • The horoscopes are always negative. Discouraging more than anything. The point of this is supposed to be insight and encouragement. This app dropped the ball on that in many ways.
+2025-07-10 18:58:15,098 - INFO - --- Cluster 4 (2 items) ---
+2025-07-10 18:58:15,098 - INFO -  • I paid for the subscription thinking i would get the LOCKED bits UNLOCKED, but even with a subscription they want you to pay for the locked parts. I am mostly certain that for the paid subscription, you really don't
+2025-07-10 18:58:15,098 - INFO -  • Customer service is not great. I have gone back and forth with someone for a week with them basically telling me things to do that aren't helpful. How do you not have an option to sign in with an email? Only Facebook.
+2025-07-10 18:58:15,098 - INFO - --- Cluster 0 (3 items) ---
+2025-07-10 18:58:15,098 - INFO -  • CNN.com is not calculating the right info. Isn’t calculating right info, and no way to change it so it’s accurate.
+2025-07-10 18:58:15,098 - INFO -  • i think ur watching me. u have no right to be so dang accurate i think ur watch me. oml ilysm. om ily sm. oom ily SM. omm ilySM. o
+2025-07-10 18:58:15,098 - INFO -  • CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world. Visit www.dailymail.co.uk/travel
+2025-07-10 18:58:15,111 - INFO - Wrote full clusters to app_1264782561_clusters.txt

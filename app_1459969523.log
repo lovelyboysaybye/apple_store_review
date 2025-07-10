@@ -1,0 +1,545 @@
+2025-07-10 17:50:31,147 - WARNING - File app_1459969523_review.json not found. Returning empty list.
+2025-07-10 17:50:31,148 - INFO - Loaded API key from serpai_api_key.txt
+2025-07-10 17:50:31,148 - INFO - Requesting page 1 of reviews...
+2025-07-10 17:50:32,148 - INFO - Fetched 25 reviews (total: 25) from page 1
+2025-07-10 17:50:33,149 - INFO - Requesting page 2 of reviews...
+2025-07-10 17:50:34,936 - INFO - Fetched 25 reviews (total: 50) from page 2
+2025-07-10 17:50:35,937 - INFO - Requesting page 3 of reviews...
+2025-07-10 17:50:36,257 - INFO - Fetched 25 reviews (total: 75) from page 3
+2025-07-10 17:50:37,258 - INFO - Requesting page 4 of reviews...
+2025-07-10 17:50:38,631 - INFO - Fetched 25 reviews (total: 100) from page 4
+2025-07-10 17:50:39,632 - INFO - Requesting page 5 of reviews...
+2025-07-10 17:50:40,885 - INFO - Fetched 25 reviews (total: 125) from page 5
+2025-07-10 17:50:41,886 - INFO - Requesting page 6 of reviews...
+2025-07-10 17:50:43,265 - INFO - Fetched 25 reviews (total: 150) from page 6
+2025-07-10 17:50:44,266 - INFO - Requesting page 7 of reviews...
+2025-07-10 17:50:45,324 - INFO - Fetched 25 reviews (total: 175) from page 7
+2025-07-10 17:50:46,326 - INFO - Requesting page 8 of reviews...
+2025-07-10 17:50:47,174 - INFO - Fetched 25 reviews (total: 200) from page 8
+2025-07-10 17:50:48,176 - INFO - Requesting page 9 of reviews...
+2025-07-10 17:50:48,810 - INFO - Fetched 25 reviews (total: 225) from page 9
+2025-07-10 17:50:49,811 - INFO - Requesting page 10 of reviews...
+2025-07-10 17:50:50,176 - INFO - Fetched 25 reviews (total: 250) from page 10
+2025-07-10 17:50:51,178 - INFO - Requesting page 11 of reviews...
+2025-07-10 17:50:51,885 - INFO - Fetched 25 reviews (total: 275) from page 11
+2025-07-10 17:50:52,887 - INFO - Requesting page 12 of reviews...
+2025-07-10 17:50:54,458 - INFO - Fetched 25 reviews (total: 300) from page 12
+2025-07-10 17:50:55,459 - INFO - Requesting page 13 of reviews...
+2025-07-10 17:50:57,749 - INFO - Fetched 25 reviews (total: 325) from page 13
+2025-07-10 17:50:58,750 - INFO - Requesting page 14 of reviews...
+2025-07-10 17:50:59,519 - INFO - Fetched 25 reviews (total: 350) from page 14
+2025-07-10 17:51:00,521 - INFO - Requesting page 15 of reviews...
+2025-07-10 17:51:01,591 - INFO - Fetched 25 reviews (total: 375) from page 15
+2025-07-10 17:51:02,592 - INFO - Requesting page 16 of reviews...
+2025-07-10 17:51:04,423 - INFO - Fetched 25 reviews (total: 400) from page 16
+2025-07-10 17:51:05,423 - INFO - Requesting page 17 of reviews...
+2025-07-10 17:51:06,114 - INFO - Fetched 25 reviews (total: 425) from page 17
+2025-07-10 17:51:07,116 - INFO - Requesting page 18 of reviews...
+2025-07-10 17:51:07,807 - INFO - Fetched 25 reviews (total: 450) from page 18
+2025-07-10 17:51:08,808 - INFO - Requesting page 19 of reviews...
+2025-07-10 17:51:10,296 - INFO - Fetched 25 reviews (total: 475) from page 19
+2025-07-10 17:51:11,296 - INFO - Requesting page 20 of reviews...
+2025-07-10 17:55:53,270 - WARNING - File app_1459969523_review.json not found. Returning empty list.
+2025-07-10 17:55:53,270 - INFO - Loaded API key from serpai_api_key.txt
+2025-07-10 17:55:53,270 - INFO - Requesting page 1 of reviews...
+2025-07-10 17:55:53,383 - INFO - Fetched 25 reviews (total: 25) from page 1
+2025-07-10 17:55:54,384 - INFO - Requesting page 2 of reviews...
+2025-07-10 17:55:54,414 - INFO - Fetched 25 reviews (total: 50) from page 2
+2025-07-10 17:55:55,414 - INFO - Requesting page 3 of reviews...
+2025-07-10 17:55:55,446 - INFO - Fetched 25 reviews (total: 75) from page 3
+2025-07-10 17:55:56,446 - INFO - Requesting page 4 of reviews...
+2025-07-10 17:55:56,503 - INFO - Fetched 25 reviews (total: 100) from page 4
+2025-07-10 17:55:57,504 - INFO - Requesting page 5 of reviews...
+2025-07-10 17:55:57,531 - INFO - Fetched 25 reviews (total: 125) from page 5
+2025-07-10 17:55:58,532 - INFO - Requesting page 6 of reviews...
+2025-07-10 17:55:58,564 - INFO - Fetched 25 reviews (total: 150) from page 6
+2025-07-10 17:55:59,566 - INFO - Requesting page 7 of reviews...
+2025-07-10 17:55:59,599 - INFO - Fetched 25 reviews (total: 175) from page 7
+2025-07-10 17:56:00,600 - INFO - Requesting page 8 of reviews...
+2025-07-10 17:56:00,655 - INFO - Fetched 25 reviews (total: 200) from page 8
+2025-07-10 17:56:01,656 - INFO - Requesting page 9 of reviews...
+2025-07-10 17:56:01,685 - INFO - Fetched 25 reviews (total: 225) from page 9
+2025-07-10 17:56:02,686 - INFO - Requesting page 10 of reviews...
+2025-07-10 17:56:02,762 - INFO - Fetched 25 reviews (total: 250) from page 10
+2025-07-10 17:56:03,763 - INFO - Requesting page 11 of reviews...
+2025-07-10 17:56:03,791 - INFO - Fetched 25 reviews (total: 275) from page 11
+2025-07-10 17:56:04,792 - INFO - Requesting page 12 of reviews...
+2025-07-10 17:56:04,824 - INFO - Fetched 25 reviews (total: 300) from page 12
+2025-07-10 17:56:05,825 - INFO - Requesting page 13 of reviews...
+2025-07-10 17:56:05,861 - INFO - Fetched 25 reviews (total: 325) from page 13
+2025-07-10 17:56:06,863 - INFO - Requesting page 14 of reviews...
+2025-07-10 17:56:06,897 - INFO - Fetched 25 reviews (total: 350) from page 14
+2025-07-10 17:56:07,897 - INFO - Requesting page 15 of reviews...
+2025-07-10 17:56:07,925 - INFO - Fetched 25 reviews (total: 375) from page 15
+2025-07-10 17:56:08,925 - INFO - Requesting page 16 of reviews...
+2025-07-10 17:56:08,954 - INFO - Fetched 25 reviews (total: 400) from page 16
+2025-07-10 17:56:09,956 - INFO - Requesting page 17 of reviews...
+2025-07-10 17:56:09,990 - INFO - Fetched 25 reviews (total: 425) from page 17
+2025-07-10 17:56:10,991 - INFO - Requesting page 18 of reviews...
+2025-07-10 17:56:11,026 - INFO - Fetched 25 reviews (total: 450) from page 18
+2025-07-10 17:56:12,028 - INFO - Requesting page 19 of reviews...
+2025-07-10 17:56:12,058 - INFO - Fetched 25 reviews (total: 475) from page 19
+2025-07-10 17:56:13,058 - INFO - Requesting page 20 of reviews...
+2025-07-10 18:03:29,715 - INFO - Loaded 1000 reviews from app_1459969523_review.json
+2025-07-10 18:06:20,992 - INFO - Completed sentiment analysis for 1000 texts.
+2025-07-10 18:06:21,036 - INFO - Sentiment distribution: Counter({'NEGATIVE': 537, 'POSITIVE': 428, 'NEUTRAL': 35})
+2025-07-10 18:06:21,037 - INFO - Found 537 negative reviews.
+2025-07-10 18:06:51,442 - INFO - Extracted 5954 keywords using keybert.
+2025-07-10 18:07:00,019 - INFO - Extracted 6348 keywords using yake.
+2025-07-10 18:07:00,021 - INFO - Top keywords (KeyBERT):
+2025-07-10 18:07:00,021 - INFO -   app: 267
+2025-07-10 18:07:00,022 - INFO -   subscription: 165
+2025-07-10 18:07:00,022 - INFO -   charged: 153
+2025-07-10 18:07:00,022 - INFO -   cancel: 120
+2025-07-10 18:07:00,022 - INFO -   45: 112
+2025-07-10 18:07:00,022 - INFO -   charge: 89
+2025-07-10 18:07:00,022 - INFO -   money: 88
+2025-07-10 18:07:00,022 - INFO -   account: 82
+2025-07-10 18:07:00,023 - INFO -   scam: 75
+2025-07-10 18:07:00,023 - INFO -   don: 63
+2025-07-10 18:07:00,023 - INFO -   trial: 62
+2025-07-10 18:07:00,023 - INFO -   card: 61
+2025-07-10 18:07:00,023 - INFO -   pay: 57
+2025-07-10 18:07:00,024 - INFO -   free: 55
+2025-07-10 18:07:00,024 - INFO -   refund: 54
+2025-07-10 18:07:00,024 - INFO -   reading: 52
+2025-07-10 18:07:00,024 - INFO -   just: 50
+2025-07-10 18:07:00,025 - INFO -   bank: 42
+2025-07-10 18:07:00,025 - INFO -   paid: 42
+2025-07-10 18:07:00,025 - INFO -   apple: 41
+2025-07-10 18:07:00,026 - INFO -   trying: 41
+2025-07-10 18:07:00,026 - INFO -   charges: 39
+2025-07-10 18:07:00,026 - INFO -   tried: 38
+2025-07-10 18:07:00,026 - INFO -   download: 38
+2025-07-10 18:07:00,026 - INFO -   did: 38
+2025-07-10 18:07:00,027 - INFO -   service: 36
+2025-07-10 18:07:00,027 - INFO -   didn: 36
+2025-07-10 18:07:00,028 - INFO -   month: 32
+2025-07-10 18:07:00,028 - INFO -   support: 31
+2025-07-10 18:07:00,028 - INFO -   99: 31
+2025-07-10 18:07:00,028 - INFO -   use: 31
+2025-07-10 18:07:00,028 - INFO -   customer: 29
+2025-07-10 18:07:00,029 - INFO -   time: 28
+2025-07-10 18:07:00,029 - INFO -   canceled: 27
+2025-07-10 18:07:00,029 - INFO -   got: 27
+2025-07-10 18:07:00,029 - INFO -   contact: 26
+2025-07-10 18:07:00,029 - INFO -   charging: 25
+2025-07-10 18:07:00,030 - INFO -   way: 25
+2025-07-10 18:07:00,030 - INFO -   purchase: 24
+2025-07-10 18:07:00,030 - INFO -   signed: 24
+2025-07-10 18:07:00,030 - INFO -   sign: 24
+2025-07-10 18:07:00,030 - INFO -   nebula: 24
+2025-07-10 18:07:00,031 - INFO -   subscriptions: 23
+2025-07-10 18:07:00,031 - INFO -   help: 23
+2025-07-10 18:07:00,031 - INFO -   birth: 22
+2025-07-10 18:07:00,031 - INFO -   chart: 22
+2025-07-10 18:07:00,031 - INFO -   getting: 21
+2025-07-10 18:07:00,032 - INFO -   email: 21
+2025-07-10 18:07:00,032 - INFO -   paying: 21
+2025-07-10 18:07:00,032 - INFO -   cancelled: 20
+2025-07-10 18:07:00,032 - INFO - Top keywords (YAKE):
+2025-07-10 18:07:00,032 - INFO -   app: 207
+2025-07-10 18:07:00,032 - INFO -   n’t: 148
+2025-07-10 18:07:00,032 - INFO -   subscription: 122
+2025-07-10 18:07:00,033 - INFO -   charged: 116
+2025-07-10 18:07:00,033 - INFO -   money: 85
+2025-07-10 18:07:00,033 - INFO -   cancel: 81
+2025-07-10 18:07:00,033 - INFO -   charge: 66
+2025-07-10 18:07:00,033 - INFO -   account: 65
+2025-07-10 18:07:00,033 - INFO -   trial: 54
+2025-07-10 18:07:00,033 - INFO -   reading: 48
+2025-07-10 18:07:00,033 - INFO -   free: 44
+2025-07-10 18:07:00,033 - INFO -   scam: 41
+2025-07-10 18:07:00,034 - INFO -   pay: 38
+2025-07-10 18:07:00,034 - INFO -   card: 35
+2025-07-10 18:07:00,034 - INFO -   time: 31
+2025-07-10 18:07:00,034 - INFO -   refund: 29
+2025-07-10 18:07:00,034 - INFO -   paid: 29
+2025-07-10 18:07:00,034 - INFO -   day: 25
+2025-07-10 18:07:00,034 - INFO -   ’ve: 25
+2025-07-10 18:07:00,034 - INFO -   month: 24
+2025-07-10 18:07:00,034 - INFO -   canceled: 23
+2025-07-10 18:07:00,034 - INFO -   signed: 23
+2025-07-10 18:07:00,035 - INFO -   free trial: 22
+2025-07-10 18:07:00,035 - INFO -   Apple: 21
+2025-07-10 18:07:00,035 - INFO -   charging: 21
+2025-07-10 18:07:00,035 - INFO -   bank: 21
+2025-07-10 18:07:00,035 - INFO -   support: 21
+2025-07-10 18:07:00,035 - INFO -   give: 19
+2025-07-10 18:07:00,035 - INFO -   sign: 19
+2025-07-10 18:07:00,036 - INFO -   download: 18
+2025-07-10 18:07:00,036 - INFO -   back: 18
+2025-07-10 18:07:00,036 - INFO -   days: 18
+2025-07-10 18:07:00,036 - INFO -   people: 17
+2025-07-10 18:07:00,036 - INFO -   charges: 17
+2025-07-10 18:07:00,036 - INFO -   readings: 15
+2025-07-10 18:07:00,036 - INFO -   downloaded: 15
+2025-07-10 18:07:00,037 - INFO -   service: 15
+2025-07-10 18:07:00,037 - INFO -   chart: 15
+2025-07-10 18:07:00,037 - INFO -   contact: 15
+2025-07-10 18:07:00,037 - INFO -   paying: 14
+2025-07-10 18:07:00,037 - INFO -   birth: 14
+2025-07-10 18:07:00,037 - INFO -   purchase: 14
+2025-07-10 18:07:00,037 - INFO -   chat: 13
+2025-07-10 18:07:00,037 - INFO -   taking: 13
+2025-07-10 18:07:00,038 - INFO -   money back: 13
+2025-07-10 18:07:00,038 - INFO -   birth chart: 13
+2025-07-10 18:07:00,038 - INFO -   horoscope: 13
+2025-07-10 18:07:00,038 - INFO -   Charged: 13
+2025-07-10 18:07:00,038 - INFO -   email: 12
+2025-07-10 18:07:00,038 - INFO -   find: 12
+2025-07-10 18:13:38,650 - INFO - Loaded 1000 reviews from app_1459969523_review.json
+2025-07-10 18:13:38,651 - INFO - Rating distribution by stars: {'POSITIVE': 442, 'NEGATIVE': 544, 'NEUTRAL': 14}
+2025-07-10 18:16:54,171 - INFO - Sentiment distribution by model: Counter({'NEGATIVE': 543, 'POSITIVE': 436, 'NEUTRAL': 21})
+2025-07-10 18:16:54,220 - INFO - Found 543 negative reviews.
+2025-07-10 18:17:23,420 - INFO - Extracted 6386 keywords using keybert (top_n=15).
+2025-07-10 18:17:31,794 - INFO - Extracted 6754 keywords using yake (top_n=15).
+2025-07-10 18:17:31,797 - INFO - Top keywords (KeyBERT):
+2025-07-10 18:17:31,797 - INFO -   app: 277
+2025-07-10 18:17:31,797 - INFO -   subscription: 173
+2025-07-10 18:17:31,797 - INFO -   scam: 164
+2025-07-10 18:17:31,797 - INFO -   charged: 160
+2025-07-10 18:17:31,797 - INFO -   cancel: 125
+2025-07-10 18:17:31,797 - INFO -   money: 105
+2025-07-10 18:17:31,797 - INFO -   charge: 103
+2025-07-10 18:17:31,797 - INFO -   45: 102
+2025-07-10 18:17:31,797 - INFO -   account: 84
+2025-07-10 18:17:31,798 - INFO -   don: 67
+2025-07-10 18:17:31,798 - INFO -   trial: 63
+2025-07-10 18:17:31,798 - INFO -   card: 63
+2025-07-10 18:17:31,798 - INFO -   pay: 60
+2025-07-10 18:17:31,798 - INFO -   free: 58
+2025-07-10 18:17:31,798 - INFO -   refund: 57
+2025-07-10 18:17:31,798 - INFO -   charges: 55
+2025-07-10 18:17:31,798 - INFO -   reading: 53
+2025-07-10 18:17:31,798 - INFO -   just: 49
+2025-07-10 18:17:31,798 - INFO -   bank: 43
+2025-07-10 18:17:31,798 - INFO -   paid: 43
+2025-07-10 18:17:31,798 - INFO -   apple: 42
+2025-07-10 18:17:31,798 - INFO -   download: 39
+2025-07-10 18:17:31,799 - INFO -   trying: 38
+2025-07-10 18:17:31,799 - INFO -   service: 37
+2025-07-10 18:17:31,799 - INFO -   didn: 36
+2025-07-10 18:17:31,799 - INFO -   did: 35
+2025-07-10 18:17:31,799 - INFO -   tried: 34
+2025-07-10 18:17:31,799 - INFO -   month: 34
+2025-07-10 18:17:31,799 - INFO -   use: 34
+2025-07-10 18:17:31,799 - INFO -   customer: 31
+2025-07-10 18:17:31,799 - INFO -   charging: 30
+2025-07-10 18:17:31,799 - INFO -   nebula: 30
+2025-07-10 18:17:31,799 - INFO -   way: 29
+2025-07-10 18:17:31,799 - INFO -   support: 28
+2025-07-10 18:17:31,799 - INFO -   99: 28
+2025-07-10 18:17:31,799 - INFO -   canceled: 27
+2025-07-10 18:17:31,800 - INFO -   fraud: 27
+2025-07-10 18:17:31,800 - INFO -   contact: 27
+2025-07-10 18:17:31,800 - INFO -   subscriptions: 26
+2025-07-10 18:17:31,800 - INFO -   purchase: 26
+2025-07-10 18:17:31,800 - INFO -   signed: 25
+2025-07-10 18:17:31,800 - INFO -   time: 24
+2025-07-10 18:17:31,800 - INFO -   got: 24
+2025-07-10 18:17:31,800 - INFO -   cancelled: 23
+2025-07-10 18:17:31,800 - INFO -   sign: 23
+2025-07-10 18:17:31,800 - INFO -   help: 23
+2025-07-10 18:17:31,800 - INFO -   paying: 22
+2025-07-10 18:17:31,800 - INFO -   birth: 22
+2025-07-10 18:17:31,800 - INFO -   horoscope: 21
+2025-07-10 18:17:31,800 - INFO -   email: 21
+2025-07-10 18:17:31,801 - INFO - Top keywords (YAKE):
+2025-07-10 18:17:31,801 - INFO -   app: 208
+2025-07-10 18:17:31,801 - INFO -   n’t: 162
+2025-07-10 18:17:31,801 - INFO -   subscription: 116
+2025-07-10 18:17:31,801 - INFO -   charged: 105
+2025-07-10 18:17:31,801 - INFO -   money: 97
+2025-07-10 18:17:31,801 - INFO -   cancel: 80
+2025-07-10 18:17:31,801 - INFO -   Scam: 77
+2025-07-10 18:17:31,801 - INFO -   charge: 66
+2025-07-10 18:17:31,801 - INFO -   account: 63
+2025-07-10 18:17:31,801 - INFO -   trial: 49
+2025-07-10 18:17:31,801 - INFO -   scam: 43
+2025-07-10 18:17:31,801 - INFO -   free: 43
+2025-07-10 18:17:31,801 - INFO -   reading: 39
+2025-07-10 18:17:31,802 - INFO -   pay: 37
+2025-07-10 18:17:31,802 - INFO -   card: 35
+2025-07-10 18:17:31,802 - INFO -   SCAM: 31
+2025-07-10 18:17:31,802 - INFO -   charges: 29
+2025-07-10 18:17:31,802 - INFO -   time: 26
+2025-07-10 18:17:31,802 - INFO -   Apple: 25
+2025-07-10 18:17:31,802 - INFO -   charging: 25
+2025-07-10 18:17:31,802 - INFO -   refund: 25
+2025-07-10 18:17:31,802 - INFO -   Charged: 24
+2025-07-10 18:17:31,802 - INFO -   paid: 24
+2025-07-10 18:17:31,802 - INFO -   free trial: 23
+2025-07-10 18:17:31,802 - INFO -   day: 23
+2025-07-10 18:17:31,802 - INFO -   ’ve: 23
+2025-07-10 18:17:31,803 - INFO -   month: 22
+2025-07-10 18:17:31,803 - INFO -   canceled: 22
+2025-07-10 18:17:31,803 - INFO -   give: 21
+2025-07-10 18:17:31,803 - INFO -   signed: 21
+2025-07-10 18:17:31,803 - INFO -   bank: 20
+2025-07-10 18:17:31,803 - INFO -   download: 20
+2025-07-10 18:17:31,803 - INFO -   people: 19
+2025-07-10 18:17:31,803 - INFO -   support: 19
+2025-07-10 18:17:31,803 - INFO -   sign: 19
+2025-07-10 18:17:31,803 - INFO -   back: 17
+2025-07-10 18:17:31,812 - INFO -   App: 17
+2025-07-10 18:17:31,812 - INFO -   days: 17
+2025-07-10 18:17:31,812 - INFO -   horoscope: 15
+2025-07-10 18:17:31,812 - INFO -   service: 15
+2025-07-10 18:17:31,812 - INFO -   Nebula: 15
+2025-07-10 18:17:31,813 - INFO -   readings: 14
+2025-07-10 18:17:31,813 - INFO -   find: 14
+2025-07-10 18:17:31,813 - INFO -   birth chart: 14
+2025-07-10 18:17:31,813 - INFO -   paying: 13
+2025-07-10 18:17:31,813 - INFO -   purchase: 13
+2025-07-10 18:17:31,813 - INFO -   chart: 13
+2025-07-10 18:17:31,813 - INFO -   Horrible: 13
+2025-07-10 18:17:31,813 - INFO -   contact: 13
+2025-07-10 18:17:31,813 - INFO -   APP: 12
+2025-07-10 18:26:55,926 - INFO - Loaded 1000 reviews from app_1459969523_review.json
+2025-07-10 18:26:55,927 - INFO - Rating distribution by stars: {'POSITIVE': 442, 'NEGATIVE': 544, 'NEUTRAL': 14}
+2025-07-10 18:29:55,179 - INFO - Sentiment distribution by model: Counter({'NEGATIVE': 543, 'POSITIVE': 436, 'NEUTRAL': 21})
+2025-07-10 18:29:55,228 - INFO - Found 543 negative reviews.
+2025-07-10 18:30:25,056 - INFO - Extracted 6386 keywords using keybert (top_n=15).
+2025-07-10 18:30:33,542 - INFO - Extracted 6754 keywords using yake (top_n=15).
+2025-07-10 18:30:33,544 - INFO - Top keywords (KeyBERT):
+2025-07-10 18:30:33,544 - INFO -   app: 277
+2025-07-10 18:30:33,544 - INFO -   subscription: 173
+2025-07-10 18:30:33,544 - INFO -   scam: 164
+2025-07-10 18:30:33,544 - INFO -   charged: 160
+2025-07-10 18:30:33,545 - INFO -   cancel: 125
+2025-07-10 18:30:33,545 - INFO -   money: 105
+2025-07-10 18:30:33,545 - INFO -   charge: 103
+2025-07-10 18:30:33,545 - INFO -   45: 102
+2025-07-10 18:30:33,545 - INFO -   account: 84
+2025-07-10 18:30:33,545 - INFO -   don: 67
+2025-07-10 18:30:33,545 - INFO -   trial: 63
+2025-07-10 18:30:33,545 - INFO -   card: 63
+2025-07-10 18:30:33,545 - INFO -   pay: 60
+2025-07-10 18:30:33,545 - INFO -   free: 58
+2025-07-10 18:30:33,545 - INFO -   refund: 57
+2025-07-10 18:30:33,545 - INFO -   charges: 55
+2025-07-10 18:30:33,545 - INFO -   reading: 53
+2025-07-10 18:30:33,546 - INFO -   just: 49
+2025-07-10 18:30:33,546 - INFO -   bank: 43
+2025-07-10 18:30:33,546 - INFO -   paid: 43
+2025-07-10 18:30:33,546 - INFO -   apple: 42
+2025-07-10 18:30:33,546 - INFO -   download: 39
+2025-07-10 18:30:33,546 - INFO -   trying: 38
+2025-07-10 18:30:33,546 - INFO -   service: 37
+2025-07-10 18:30:33,546 - INFO -   didn: 36
+2025-07-10 18:30:33,546 - INFO -   did: 35
+2025-07-10 18:30:33,546 - INFO -   tried: 34
+2025-07-10 18:30:33,546 - INFO -   month: 34
+2025-07-10 18:30:33,546 - INFO -   use: 34
+2025-07-10 18:30:33,546 - INFO -   customer: 31
+2025-07-10 18:30:33,547 - INFO -   charging: 30
+2025-07-10 18:30:33,547 - INFO -   nebula: 30
+2025-07-10 18:30:33,547 - INFO -   way: 29
+2025-07-10 18:30:33,547 - INFO -   support: 28
+2025-07-10 18:30:33,547 - INFO -   99: 28
+2025-07-10 18:30:33,547 - INFO -   canceled: 27
+2025-07-10 18:30:33,547 - INFO -   fraud: 27
+2025-07-10 18:30:33,547 - INFO -   contact: 27
+2025-07-10 18:30:33,547 - INFO -   subscriptions: 26
+2025-07-10 18:30:33,547 - INFO -   purchase: 26
+2025-07-10 18:30:33,547 - INFO -   signed: 25
+2025-07-10 18:30:33,548 - INFO -   time: 24
+2025-07-10 18:30:33,548 - INFO -   got: 24
+2025-07-10 18:30:33,548 - INFO -   cancelled: 23
+2025-07-10 18:30:33,548 - INFO -   sign: 23
+2025-07-10 18:30:33,548 - INFO -   help: 23
+2025-07-10 18:30:33,548 - INFO -   paying: 22
+2025-07-10 18:30:33,548 - INFO -   birth: 22
+2025-07-10 18:30:33,548 - INFO -   horoscope: 21
+2025-07-10 18:30:33,548 - INFO -   email: 21
+2025-07-10 18:30:33,548 - INFO - Top keywords (YAKE):
+2025-07-10 18:30:33,548 - INFO -   app: 208
+2025-07-10 18:30:33,548 - INFO -   n’t: 162
+2025-07-10 18:30:33,548 - INFO -   subscription: 116
+2025-07-10 18:30:33,548 - INFO -   charged: 105
+2025-07-10 18:30:33,549 - INFO -   money: 97
+2025-07-10 18:30:33,549 - INFO -   cancel: 80
+2025-07-10 18:30:33,549 - INFO -   Scam: 77
+2025-07-10 18:30:33,549 - INFO -   charge: 66
+2025-07-10 18:30:33,549 - INFO -   account: 63
+2025-07-10 18:30:33,549 - INFO -   trial: 49
+2025-07-10 18:30:33,549 - INFO -   scam: 43
+2025-07-10 18:30:33,549 - INFO -   free: 43
+2025-07-10 18:30:33,549 - INFO -   reading: 39
+2025-07-10 18:30:33,549 - INFO -   pay: 37
+2025-07-10 18:30:33,549 - INFO -   card: 35
+2025-07-10 18:30:33,549 - INFO -   SCAM: 31
+2025-07-10 18:30:33,549 - INFO -   charges: 29
+2025-07-10 18:30:33,550 - INFO -   time: 26
+2025-07-10 18:30:33,550 - INFO -   Apple: 25
+2025-07-10 18:30:33,550 - INFO -   charging: 25
+2025-07-10 18:30:33,550 - INFO -   refund: 25
+2025-07-10 18:30:33,550 - INFO -   Charged: 24
+2025-07-10 18:30:33,550 - INFO -   paid: 24
+2025-07-10 18:30:33,550 - INFO -   free trial: 23
+2025-07-10 18:30:33,550 - INFO -   day: 23
+2025-07-10 18:30:33,550 - INFO -   ’ve: 23
+2025-07-10 18:30:33,550 - INFO -   month: 22
+2025-07-10 18:30:33,550 - INFO -   canceled: 22
+2025-07-10 18:30:33,550 - INFO -   give: 21
+2025-07-10 18:30:33,551 - INFO -   signed: 21
+2025-07-10 18:30:33,551 - INFO -   bank: 20
+2025-07-10 18:30:33,551 - INFO -   download: 20
+2025-07-10 18:30:33,551 - INFO -   people: 19
+2025-07-10 18:30:33,551 - INFO -   support: 19
+2025-07-10 18:30:33,551 - INFO -   sign: 19
+2025-07-10 18:30:33,551 - INFO -   back: 17
+2025-07-10 18:30:33,551 - INFO -   App: 17
+2025-07-10 18:30:33,551 - INFO -   days: 17
+2025-07-10 18:30:33,551 - INFO -   horoscope: 15
+2025-07-10 18:30:33,551 - INFO -   service: 15
+2025-07-10 18:30:33,551 - INFO -   Nebula: 15
+2025-07-10 18:30:33,551 - INFO -   readings: 14
+2025-07-10 18:30:33,551 - INFO -   find: 14
+2025-07-10 18:30:33,552 - INFO -   birth chart: 14
+2025-07-10 18:30:33,552 - INFO -   paying: 13
+2025-07-10 18:30:33,552 - INFO -   purchase: 13
+2025-07-10 18:30:33,552 - INFO -   chart: 13
+2025-07-10 18:30:33,552 - INFO -   Horrible: 13
+2025-07-10 18:30:33,552 - INFO -   contact: 13
+2025-07-10 18:30:33,552 - INFO -   APP: 12
+2025-07-10 18:30:33,552 - INFO - Summarizing reviews...
+2025-07-10 18:42:33,641 - INFO - Loaded 1000 reviews from app_1459969523_review.json
+2025-07-10 18:42:33,641 - INFO - Rating distribution by stars: {'POSITIVE': 64, 'NEGATIVE': 33, 'NEUTRAL': 3}
+2025-07-10 18:43:00,284 - INFO - Sentiment distribution by model: Counter({'POSITIVE': 61, 'NEGATIVE': 36, 'NEUTRAL': 3})
+2025-07-10 18:43:00,350 - INFO - Found 36 negative reviews.
+2025-07-10 18:43:05,247 - INFO - Extracted 419 keywords using keybert (top_n=15).
+2025-07-10 18:43:05,903 - INFO - Extracted 459 keywords using yake (top_n=15).
+2025-07-10 18:43:05,903 - INFO - Top keywords (KeyBERT):
+2025-07-10 18:43:05,903 - INFO -   app: 19
+2025-07-10 18:43:05,903 - INFO -   scam: 14
+2025-07-10 18:43:05,904 - INFO -   account: 10
+2025-07-10 18:43:05,904 - INFO -   subscription: 8
+2025-07-10 18:43:05,904 - INFO -   money: 8
+2025-07-10 18:43:05,904 - INFO -   charged: 7
+2025-07-10 18:43:05,904 - INFO -   charge: 7
+2025-07-10 18:43:05,904 - INFO -   cancel: 6
+2025-07-10 18:43:05,904 - INFO -   customer: 5
+2025-07-10 18:43:05,904 - INFO -   refund: 5
+2025-07-10 18:43:05,904 - INFO -   month: 4
+2025-07-10 18:43:05,904 - INFO -   charging: 4
+2025-07-10 18:43:05,904 - INFO -   readings: 4
+2025-07-10 18:43:05,904 - INFO -   charges: 4
+2025-07-10 18:43:05,904 - INFO -   cancelled: 4
+2025-07-10 18:43:05,904 - INFO -   service: 4
+2025-07-10 18:43:05,904 - INFO -   trial: 3
+2025-07-10 18:43:05,904 - INFO -   card: 3
+2025-07-10 18:43:05,905 - INFO -   reading: 3
+2025-07-10 18:43:05,905 - INFO -   bank: 3
+2025-07-10 18:43:05,905 - INFO -   support: 3
+2025-07-10 18:43:05,905 - INFO -   99: 3
+2025-07-10 18:43:05,905 - INFO -   psychic: 3
+2025-07-10 18:43:05,905 - INFO -   psychics: 3
+2025-07-10 18:43:05,905 - INFO -   way: 3
+2025-07-10 18:43:05,905 - INFO -   really: 3
+2025-07-10 18:43:05,905 - INFO -   used: 3
+2025-07-10 18:43:05,905 - INFO -   good: 3
+2025-07-10 18:43:05,905 - INFO -   purchase: 3
+2025-07-10 18:43:05,905 - INFO -   purchased: 3
+2025-07-10 18:43:05,906 - INFO -   canceling: 2
+2025-07-10 18:43:05,906 - INFO -   canceled: 2
+2025-07-10 18:43:05,906 - INFO -   wasn: 2
+2025-07-10 18:43:05,906 - INFO -   pay: 2
+2025-07-10 18:43:05,906 - INFO -   issue: 2
+2025-07-10 18:43:05,906 - INFO -   ask: 2
+2025-07-10 18:43:05,906 - INFO -   time: 2
+2025-07-10 18:43:05,906 - INFO -   think: 2
+2025-07-10 18:43:05,906 - INFO -   don: 2
+2025-07-10 18:43:05,906 - INFO -   dollars: 2
+2025-07-10 18:43:05,906 - INFO -   advertisement: 2
+2025-07-10 18:43:05,906 - INFO -   49: 2
+2025-07-10 18:43:05,906 - INFO -   fraud: 2
+2025-07-10 18:43:05,907 - INFO -   did: 2
+2025-07-10 18:43:05,907 - INFO -   fall: 2
+2025-07-10 18:43:05,907 - INFO -   dont: 2
+2025-07-10 18:43:05,907 - INFO -   generic: 2
+2025-07-10 18:43:05,907 - INFO -   say: 2
+2025-07-10 18:43:05,907 - INFO -   subscriptions: 2
+2025-07-10 18:43:05,907 - INFO -   use: 2
+2025-07-10 18:43:05,907 - INFO - Top keywords (YAKE):
+2025-07-10 18:43:05,907 - INFO -   app: 18
+2025-07-10 18:43:05,907 - INFO -   n’t: 13
+2025-07-10 18:43:05,907 - INFO -   Scam: 8
+2025-07-10 18:43:05,907 - INFO -   charged: 6
+2025-07-10 18:43:05,908 - INFO -   money: 6
+2025-07-10 18:43:05,908 - INFO -   charging: 5
+2025-07-10 18:43:05,908 - INFO -   charge: 5
+2025-07-10 18:43:05,908 - INFO -   scam: 4
+2025-07-10 18:43:05,908 - INFO -   readings: 4
+2025-07-10 18:43:05,908 - INFO -   back: 4
+2025-07-10 18:43:05,908 - INFO -   reading: 3
+2025-07-10 18:43:05,908 - INFO -   give: 3
+2025-07-10 18:43:05,908 - INFO -   refund: 3
+2025-07-10 18:43:05,908 - INFO -   cancel: 3
+2025-07-10 18:43:05,908 - INFO -   find: 3
+2025-07-10 18:43:05,908 - INFO -   account: 3
+2025-07-10 18:43:05,908 - INFO -   made: 3
+2025-07-10 18:43:05,909 - INFO -   subscription: 3
+2025-07-10 18:43:05,909 - INFO -   good: 3
+2025-07-10 18:43:05,909 - INFO -   month: 3
+2025-07-10 18:43:05,909 - INFO -   support: 3
+2025-07-10 18:43:05,909 - INFO -   pay: 2
+2025-07-10 18:43:05,909 - INFO -   time: 2
+2025-07-10 18:43:05,909 - INFO -   SCAM: 2
+2025-07-10 18:43:05,909 - INFO -   psychics: 2
+2025-07-10 18:43:05,909 - INFO -   amount: 2
+2025-07-10 18:43:05,909 - INFO -   membership: 2
+2025-07-10 18:43:05,909 - INFO -   real: 2
+2025-07-10 18:43:05,909 - INFO -   good app: 2
+2025-07-10 18:43:05,909 - INFO -   charges: 2
+2025-07-10 18:43:05,910 - INFO -   cancelled: 2
+2025-07-10 18:43:05,910 - INFO -   purchased: 2
+2025-07-10 18:43:05,910 - INFO -   paying: 2
+2025-07-10 18:43:05,910 - INFO -   money back: 2
+2025-07-10 18:43:05,910 - INFO -   canceling trial.: 1
+2025-07-10 18:43:05,910 - INFO -   Apple Card: 1
+2025-07-10 18:43:05,910 - INFO -   continuing: 1
+2025-07-10 18:43:05,910 - INFO -   trial.: 1
+2025-07-10 18:43:05,910 - INFO -   four-day trial: 1
+2025-07-10 18:43:05,910 - INFO -   canceling: 1
+2025-07-10 18:43:05,910 - INFO -   app on June: 1
+2025-07-10 18:43:05,910 - INFO -   June: 1
+2025-07-10 18:43:05,910 - INFO -   Canceled immediately: 1
+2025-07-10 18:43:05,910 - INFO -   charged after canceling: 1
+2025-07-10 18:43:05,910 - INFO -   Card: 1
+2025-07-10 18:43:05,911 - INFO -   quickly determined: 1
+2025-07-10 18:43:05,911 - INFO -   Apple: 1
+2025-07-10 18:43:05,911 - INFO -   MONTH: 1
+2025-07-10 18:43:05,911 - INFO -   claim this issue: 1
+2025-07-10 18:43:05,911 - INFO -   n’t suscribe: 1
+2025-07-10 18:43:05,911 - INFO - Summarizing reviews...
+2025-07-10 18:45:52,739 - INFO - Clustering summaries...
+2025-07-10 18:45:57,013 - INFO - --- Cluster 4 (11 items) ---
+2025-07-10 18:45:57,013 - INFO -  • I feel like they get you to overspend in the app to talk to a pyschic. It’s very annoying to pay so much and yet expect you still have a membership when it should be included.
+2025-07-10 18:45:57,013 - INFO -  • A little upset because I really wanted to subscribe to this app, but was shocked to see that the amount that was being pulled out of my account was 75+ dollars instead of the 39.99 yearly subscription price. I am aware that
+2025-07-10 18:45:57,013 - INFO -  • I was charged the $1, plus almost $30 during a free trial. Fine I used the app. Was charged the same two charges this month. I just want off the roller coaster of payments.
+2025-07-10 18:45:57,013 - INFO -  • I somehow purchased a review for $1.00 only to be additionally charge 29.99 and 49.99. I can’t seem to find a way to cancel and get my money back. Do not purchase app.
+2025-07-10 18:45:57,013 - INFO -  • This app is a scam!! I downloaded the app out of curiosity. The same day I deleted the app I was still charged $33. I still have no idea what that charge is for or where a subscription was agreed to. I
+2025-07-10 18:45:57,014 - INFO - --- Cluster 2 (6 items) ---
+2025-07-10 18:45:57,014 - INFO -  • Every time I would ask a psychic a question I have to repeat myself over and over again until they answer my question. Scam and waste of money.
+2025-07-10 18:45:57,014 - INFO -  • The psychic chat and bot feel like scams and AI. It doesn't even give you knowledge about your birth chart. It scammed me with 0.50$ and 50$ for no reason.
+2025-07-10 18:45:57,014 - INFO -  • They are scam, fraud and then the readings they show is too generic and pathetic!!! Not personalized!!! Pathetic and scam!!! They charged me with the amount i did not even authorized!!! Fraud!!!
+2025-07-10 18:45:57,014 - INFO -  • The psychics arent real and give bad advice. They dont know anything. Its really expensive to talk to someone for 3 minutes. Scam.
+2025-07-10 18:45:57,014 - INFO -  • "I'm not usually into horoscope and all but I decided to give it a try. Going through readings and descriptions of me, they seem to hit the nail on the head"
+2025-07-10 18:45:57,014 - INFO - --- Cluster 3 (9 items) ---
+2025-07-10 18:45:57,014 - INFO -  • I accidentally clicked on a $49.99 upsell because my phone screen is broken and sometimes misfires. I reached out to customer support immediately to correct the mistake. They refused to issue a refund, even though I explained it was
+2025-07-10 18:45:57,014 - INFO -  • "Canceling a subscription. They made it extremely hard and support chat wasn't helpful. Customer service does not exist," she said.
+2025-07-10 18:45:57,014 - INFO -  • "I can't find my account to cancel. They are charging g me and can’t find me to cancel," she said.
+2025-07-10 18:45:57,014 - INFO -  • Terrible advisors and they will send you random charges. Their payment method doesn’t make sense cause you purchase points and the advisors cost points not dollars. Scam.
+2025-07-10 18:45:57,015 - INFO -  • The directions to cancel the service doesn't work and I keep getting charged! Growl!! Hiss!! Buyer beware!!!!!
+2025-07-10 18:45:57,015 - INFO - --- Cluster 0 (2 items) ---
+2025-07-10 18:45:57,015 - INFO -  • Noooo es real spam. Noooo es fake. Noooooo es real. Fake.
+2025-07-10 18:45:57,015 - INFO -  • Ladrones se recargan sin autorización. Son unos ladrones se Recargan.
+2025-07-10 18:45:57,015 - INFO - --- Cluster 1 (8 items) ---
+2025-07-10 18:45:57,015 - INFO -  • Watch out for bait reading that comes with MULTIPLE hidden charges. This is the most shameful shady business in the name of spirituality I’ve ever used. I paid for their reading BAIT which turned out to be generic
+2025-07-10 18:45:57,015 - INFO -  • This app is a fraud. Fraud. Fraud, says the company behind the app. The app was created to help people with disabilities. The company has since been shut down.
+2025-07-10 18:45:57,015 - INFO -  • This app steals money from you and there is no way to get it back. Even if you don't get a reading, they just keep taking money out of your account month after month. If I could give 0 stars I would.
+2025-07-10 18:45:57,015 - INFO -  • Paid $5 for palm reading, suddenly charged $45 without my permission. Google it, happens to many people. Can’t get money back.
+2025-07-10 18:45:57,015 - INFO -  • This is a ridiculous and over priced App preying on vulnerable people wanting to learn about themselves. The customer service is horrible. God forbid you need some assistance with anything. You’ll be talking to a robot not an actual living
+2025-07-10 18:45:57,016 - INFO - Wrote full clusters to app_1459969523_clusters.txt
